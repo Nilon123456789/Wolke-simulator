@@ -1,0 +1,1 @@
+L'onglet editeur permet de modifier les obstacles de la simulation en temps réel à l'aide d'une selection d'outils et d'un gestionnaire de calque. De plus, la scène peut être sauvegardée et chargée.

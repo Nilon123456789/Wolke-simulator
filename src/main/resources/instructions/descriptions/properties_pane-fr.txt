@@ -1,0 +1,1 @@
+Le panneau de propriétés possède une liste déroulante qui permet le choix parmi divers paramètres de simulation qui peuvent être visualisés individuellement. De plus, il est possible d'activer la visualisation du champs de vecteurs d'orientation ou de visualiser la simulation en utilisant des nuances de gris.

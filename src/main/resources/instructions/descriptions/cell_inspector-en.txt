@@ -1,0 +1,1 @@
+It is possible to activate the cell inspector by pressing on a part of the canvas, the cell inspector will now be pinned there. This tool allows to get insight on the values of the simulation at a precise location. The inspector can by unpinned by doing a right click on the canvas.

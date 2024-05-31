@@ -1,0 +1,1 @@
+The vortex factor is a purely artistic parameter that adds turbulence to the simulation. Its value ranges from 0 to 1. The higher it is, the more significant the turbulence.

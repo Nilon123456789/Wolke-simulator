@@ -1,0 +1,1 @@
+La masse volumique d'un fluide est la masse du fluide par unité de volume. Si on augmente la masse volumique du fluide, le fluide devient plus lourd et, par conséquent, il offre plus de résistance lors de son déplacement. Ce qui revient au même que d'augmenter la viscosité.

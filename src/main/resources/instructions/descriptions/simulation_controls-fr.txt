@@ -1,0 +1,1 @@
+Ces boutons contrôlent l'état de la simulation. Le premier la débute ou l'arrête. Le deuxième l'avance d'un pas. Le troisième réinitialise la simulation sans affecter les paramètres de simulation, de visualisation, ou les obstacles.

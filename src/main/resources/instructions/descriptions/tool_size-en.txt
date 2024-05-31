@@ -1,0 +1,1 @@
+The line thickness selector offers a choice among 5 different thicknesses for the pencil and shapes.

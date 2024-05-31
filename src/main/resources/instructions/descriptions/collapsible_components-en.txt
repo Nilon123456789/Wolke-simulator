@@ -1,0 +1,1 @@
+Some bulky components of the interface can be toggled to declutter the workspace.

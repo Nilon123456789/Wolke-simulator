@@ -1,0 +1,1 @@
+It is possible to import images in SVG or PNG format into the editor by selecting the image import tool.

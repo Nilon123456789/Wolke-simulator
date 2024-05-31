@@ -1,0 +1,1 @@
+The editor tab allows to modify the obstacles of the simulation in real time using a selection of tools and a click manager. In addition, the scene can be saved and loaded.

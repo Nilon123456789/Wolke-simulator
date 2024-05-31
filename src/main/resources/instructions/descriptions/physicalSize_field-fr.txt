@@ -1,0 +1,1 @@
+Les deux paramètre de taille physique définisse la taille du domaine de la simulation. La taille en x représente la longueur du domaine de la simulation, et la taille en y représente la hauteur du domaine de la simulation. Note lorsque vous réduisez la taille du domaine vous devez également réduire le pas de temps pour que la simulation reste stable.

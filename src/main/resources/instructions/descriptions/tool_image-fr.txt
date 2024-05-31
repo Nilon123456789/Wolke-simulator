@@ -1,0 +1,1 @@
+Il est possible d'importer des images au format SVG ou PNG dans l'éditeur en sélectionnant l'outil d'import d'image.

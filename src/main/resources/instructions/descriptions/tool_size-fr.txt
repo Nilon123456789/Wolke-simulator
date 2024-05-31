@@ -1,0 +1,1 @@
+Le selecteur d'épaisseur de trait offre un choix parmi 5 épaisseurs différentes pour le crayon ainsi que pour les formes.

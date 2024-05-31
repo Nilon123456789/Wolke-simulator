@@ -1,0 +1,1 @@
+Have fun with the simulation in the Zen Mode. Left-click and drag to add pressure in canvas along your mouse movements, or right-click and drag to add density.

@@ -1,0 +1,1 @@
+La gomme à effacer permet d'effacer des portions du dessins, des formes ou des images, dans le calque actuel.

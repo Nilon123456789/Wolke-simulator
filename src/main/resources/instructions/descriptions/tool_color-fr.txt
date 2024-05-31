@@ -1,0 +1,1 @@
+Le selecteur de couleur permet de selectionner la couleur de dessin pour le crayon ainsi que pour les formes.

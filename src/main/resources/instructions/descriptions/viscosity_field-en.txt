@@ -1,0 +1,1 @@
+Viscosity is a physical property that characterizes a fluid's resistance to flow. The higher the value, the more the fluid resists flow.

@@ -1,0 +1,1 @@
+Le gestionnaire de calques de l'éditeur permet de gérer les calques d'obstacles de la simulation. Permettant ainsi de dessiner différents obstacles à des niveaux de hauteur différents offrant la possibilitée de créer des obstacles plus complexes. Les calques affichent aussi en temps réel leur contenu.

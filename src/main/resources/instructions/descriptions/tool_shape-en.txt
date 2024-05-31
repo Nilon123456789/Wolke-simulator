@@ -1,0 +1,1 @@
+The shape selector allows you to draw a quadrilateral or a circle depending on the shape selected on the active layer.

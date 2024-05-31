@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" packages="com.e24.wolke.utils.logger">
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout disableAnsi="false">
+                <MarkerPatternSelector defaultPattern="[%highlight{%p}{TRACE=BRIGHT BLACK}] %d{HH:mm:ss.SSS} {%C{0}@%M:%L} %msg%n">
+                    <PatternMatch key="TIMER" pattern="[%highlight{%p}{TRACE=BRIGHT BLACK}] %d{HH:mm:ss.SSS} {%c{0}:%C{0}@%M:%L} %msg%n"/>
+                </MarkerPatternSelector>
+            </PatternLayout>
+        </Console>
+        <WSwingConsoleAppender name="WSwingConsoleAppender">
+            <PatternLayout disableAnsi="false">
+                <MarkerPatternSelector defaultPattern="[%highlight{%p}{TRACE=BRIGHT BLACK}] %d{HH:mm:ss.SSS} {%C{0}@%M} %msg%n">
+                    <PatternMatch key="TIMER" pattern="[%highlight{%p}{TRACE=BRIGHT BLACK}] %d{HH:mm:ss.SSS} {%c{0}:%C{0}@%M} %msg%n"/>
+                </MarkerPatternSelector>
+            </PatternLayout>
+        </WSwingConsoleAppender>
+        <RollingFile name="FileLog" fileName="logs/app.log" filePattern="logs/app-%i.log.gz" immediateFlush="true">
+            <Policies>
+                <SizeBasedTriggeringPolicy size="750KB" />
+            </Policies>
+            <DefaultRolloverStrategy max="2">
+                <Delete basePath="logs/" maxDepth="2">
+                <IfFileName glob="*/app-*.log.gz" />
+                <IfLastModified age="P7D" />
+                </Delete>
+            </DefaultRolloverStrategy>
+            <PatternLayout disableAnsi="false">
+                <MarkerPatternSelector defaultPattern="[%p] %d{yyy-MM-dd HH:mm:ss.SSS} {%C@%M:%L} %msg%n">
+                    <PatternMatch key="TIMER" pattern="[%p] %d{yyy-MM-dd HH:mm:ss.SSS} {%c:%C@%M:%L} %msg%n"/>
+                </MarkerPatternSelector>
+            </PatternLayout>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="ALL"> <!-- Niveau global -->
+            <AppenderRef ref="console" level="INFO" /> <!-- Niveau de la console -->
+            <AppenderRef ref="WSwingConsoleAppender" level="TRACE" /> <!-- Niveau de la console Swing -->
+            <AppenderRef ref="FileLog"  level="ALL"/> <!-- Niveau du fichier de log -->
+        </Root>
+    </Loggers>
+</Configuration>

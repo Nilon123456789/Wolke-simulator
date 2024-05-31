@@ -1,0 +1,1 @@
+Les prérèglages, permettent de définir des valeurs physique pour la viscosité et la masse volumique. Les autres paramètres ne sont pas affectés par les préréglages. Par exemple, si vous définissez un préréglage pour l'air, et qu'ensuite vous le comparez à celui du miel, vous remarquerez que le fluide est beaucoup plus dense et moins agité.

@@ -1,0 +1,1 @@
+The eraser tool allows you to erase portions of the drawing, shapes or images, in the current layer.

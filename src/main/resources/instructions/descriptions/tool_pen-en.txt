@@ -1,0 +1,1 @@
+The pencil tool allows you to draw freely in the canvas on the current layer.

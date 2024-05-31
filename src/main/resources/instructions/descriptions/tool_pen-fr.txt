@@ -1,0 +1,1 @@
+L'outil crayon permet de dessiner librement dans le canvas sur le calque selectionné.

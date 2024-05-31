@@ -1,0 +1,1 @@
+Le bouton "Tout réinitialiser" réinitialise tous les paramètres de simulation, de visualisation et les obstacles à ceux de l'état sauvegardé par l'utilisateur, ou l'état initial si l'utilisateur n'a jamais sauvegardé de changements.

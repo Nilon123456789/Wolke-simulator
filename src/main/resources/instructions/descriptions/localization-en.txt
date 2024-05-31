@@ -1,0 +1,1 @@
+Our application is localized, and the language selection is made from the 'Options' menu.

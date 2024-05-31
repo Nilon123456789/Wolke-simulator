@@ -1,0 +1,1 @@
+The density of a fluid is the mass of the fluid per unit volume. If the density of the fluid increases, the fluid becomes heavier and consequently offers more resistance when displaced. This is equivalent to increasing viscosity.

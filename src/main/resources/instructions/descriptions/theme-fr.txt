@@ -1,0 +1,1 @@
+À partir du menu "Options", il est possible de changer le thème de l'application, à partir d'une liste de thèmes de l'application, à partir d'une liste de thèmes prédéfinis.

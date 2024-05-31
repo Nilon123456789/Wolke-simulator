@@ -1,0 +1,1 @@
+The presets allow you to define physical values for viscosity and density. Other parameters are not affected by the presets. For example, if you set a preset for air and then compare it to honey, you'll notice that the fluid is much denser and less agitated.

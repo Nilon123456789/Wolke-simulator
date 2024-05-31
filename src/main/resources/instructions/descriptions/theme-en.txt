@@ -1,0 +1,1 @@
+From the "Options" menu, you can change the application theme from a list of predefined themes.

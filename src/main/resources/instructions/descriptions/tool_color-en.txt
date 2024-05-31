@@ -1,0 +1,1 @@
+The color selector allows you to select the drawing color for the pencil as well as for the shapes.

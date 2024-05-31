@@ -1,0 +1,1 @@
+These buttons control the state of the simulation. The first one starts or stops it. The second one advances it by one step. The third one resets the simulation without affecting the simulation parameters, visualization settings, or obstacles.

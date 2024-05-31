@@ -1,0 +1,1 @@
+The properties panel features a dropdown menu that allows selection from various simulation parameters that can be individually visualized. Additionally, it's possible to activate visualization of the orientation vector field or view the simulation using grayscale shades.

@@ -1,0 +1,6 @@
+The arrows allow to move the order of the layers from top to bottom.
+The plus allows to add a layer.
+The clipboard allows to copy a layer.
+The pencil allows to rename a layer.
+The trash can allows to delete a layer.
+The clear layer button clears all layers.

@@ -1,0 +1,1 @@
+Thanks to the layout managers, our application is responsive and adapts to the user's screen size.

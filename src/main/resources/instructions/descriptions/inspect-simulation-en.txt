@@ -1,0 +1,1 @@
+Inspect the physics output at a specific point of the simulation canvas with the inspector tool.

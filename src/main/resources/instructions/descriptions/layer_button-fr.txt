@@ -1,0 +1,6 @@
+Les flèches permette de déplacer l'ordre des calque du haut vers le bas.
+Le plus permet d'ajouter un calque.
+Le presse papier permet de copier un calque.
+Le crayon permet de renomer un calque.
+La poubelle permet de supprimer un calque.
+Le bouton suppression des calques supprime tous les calques.

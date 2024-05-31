@@ -1,0 +1,1 @@
+You can use predefined fluids as well as customize simulation parameters. To do so, simply modify the simulation settings in the "Properties" panel. Note: If the wind tunnel simulation is not progressing, the time step is probably too large.

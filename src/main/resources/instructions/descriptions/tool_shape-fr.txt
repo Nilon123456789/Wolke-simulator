@@ -1,0 +1,1 @@
+Le selecteur de formes permet de dessiner un quadrilataire ou un cercle en fonction de la forme selectionnée sur le calque actif.

@@ -1,0 +1,2 @@
+
+You can activate Zen mode from the "View" menu. Zen mode hides all interface components for a more immersive simulation experience. It allows you to create high-pressure zones with a left click-and-drag and add smoke with a right click-and-drag, enabling fun interaction with the simulation. You can exit Zen mode using the "Minimize" button at the bottom right of the window.

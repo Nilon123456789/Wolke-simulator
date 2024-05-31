@@ -1,0 +1,1 @@
+The Wolke simulator offers the ability to view application logs. To do so, simply activate the log window from the 'View' menu. Logs can be filtered by level and class. Additionally, it's possible to export logs to HTML format by navigating to File -> Export.

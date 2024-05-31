@@ -1,0 +1,1 @@
+The 'Reset All' button resets all simulation parameters, visualization settings, and obstacles to the last saved state, or to the initial configuration if the user has never saved any changes.

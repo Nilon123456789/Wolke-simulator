@@ -1,0 +1,1 @@
+Il est possible d'utiliser des fluides prédéfinis ainsi que de personnaliser les paramètres de simulation. Pour cela, il suffit de modifier les réglages de simulation dans le panneau "Propriétés". Nota : Si la simulation en mode "Tunnel à vent" n'avance pas, le pas de temps est probablement trop grand.

@@ -1,0 +1,1 @@
+Il est possible d'activer l'inspecteur de cellule en appuyant sur une partie du canvas de l'application, ainsi l'épinglant à cet endroit. Cet outil permet d'obtenir les valeurs de la simulation à une position précise de la simulation. Il est possible de le dépingler avec un clic droit sur le canvas.

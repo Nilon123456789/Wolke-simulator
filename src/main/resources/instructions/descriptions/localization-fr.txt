@@ -1,0 +1,1 @@
+Notre application est localisée, le choix de langue se fait à partir du menu "Options".

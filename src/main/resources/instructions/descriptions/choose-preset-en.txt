@@ -1,0 +1,1 @@
+Before starting the simulation, pick the fluid preset of the fluid type you'd like to visualize.

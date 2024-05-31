@@ -1,0 +1,1 @@
+The two physical size parameters define the size of the simulation domain. The size in x represents the length of the simulation domain, and the size in y represents the height of the simulation domain. Note when reducing the size you may need to adjust the time step to ensure the simulation is stable.
