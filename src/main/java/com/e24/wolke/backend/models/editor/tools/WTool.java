@@ -10,7 +10,7 @@ import java.awt.image.BufferedImage;
  * dessin dans le mode editeur de l'application.
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public abstract class WTool {
 

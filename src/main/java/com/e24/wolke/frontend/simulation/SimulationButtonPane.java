@@ -19,7 +19,7 @@ import net.miginfocom.swing.MigLayout;
 /**
  * Classe SimulationButtonPane qui agence les boutons controllant les états de la simulation
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class SimulationButtonPane extends JPanel implements WEventComponent, Reinitializable {

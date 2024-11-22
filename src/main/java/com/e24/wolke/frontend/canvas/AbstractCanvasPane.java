@@ -22,7 +22,7 @@ import org.apache.logging.log4j.Logger;
 /**
  * Classe abstraite pour les panneaux de rendu
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public abstract class AbstractCanvasPane extends JPanel
     implements WEventComponent, Reinitializable {

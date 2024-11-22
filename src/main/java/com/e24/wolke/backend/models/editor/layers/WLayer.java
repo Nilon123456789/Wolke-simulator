@@ -8,7 +8,7 @@ import java.awt.image.BufferedImage;
 /**
  * Simple classe stockant les données nécessaires pour former un calque de l'éditeur.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class WLayer {

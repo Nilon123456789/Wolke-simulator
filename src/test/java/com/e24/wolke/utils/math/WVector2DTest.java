@@ -10,7 +10,7 @@ import org.junit.Test;
  *
  * @author Nilon123456789
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class WVector2DTest {
 

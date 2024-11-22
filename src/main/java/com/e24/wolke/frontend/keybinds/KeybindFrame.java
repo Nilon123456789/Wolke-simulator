@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
  * Panneau affichant les différents raccourcis clavier et leur fonction dans l'application, de
  * manière organisée par onglets selon leur portée dans l'application.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class KeybindFrame extends JFrame {
 

@@ -37,7 +37,7 @@ import net.miginfocom.swing.MigLayout;
  * Panneau de saisie des entrées de la simulation Il contient les préréglages de la simulation,
  * ainsi que des réglages avancés de la simulation et de sa visualisation
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  * @author Nilon123456789
  */

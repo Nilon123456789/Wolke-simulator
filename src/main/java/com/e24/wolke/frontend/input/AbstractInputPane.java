@@ -20,7 +20,7 @@ import net.miginfocom.swing.MigLayout;
 /**
  * Composant abstrait de saisie de données avec options pour le cacher.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class AbstractInputPane extends JPanel {
 

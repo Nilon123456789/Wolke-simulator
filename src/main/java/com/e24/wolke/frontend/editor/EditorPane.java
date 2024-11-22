@@ -18,7 +18,7 @@ import javax.swing.JPanel;
 /**
  * Panneau d'édition
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class EditorPane extends JPanel implements WEventComponent, Reinitializable {

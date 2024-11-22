@@ -13,7 +13,7 @@ import javax.swing.ImageIcon;
  * La classe {@code ApplicationConstants} regroupe les constantes liees a l'application en general.
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author Nilon123456789
  */
 public final class ApplicationConstants {
@@ -229,7 +229,7 @@ public final class ApplicationConstants {
   /**
    * Enum regroupant les onglets de l'application
    *
-   * @author n-o-o-d-l-e
+   * @author adrienles
    * @author Nilon123456789
    */
   public enum ApplicationTab {

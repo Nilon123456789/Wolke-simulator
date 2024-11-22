@@ -16,7 +16,7 @@ import org.apache.logging.log4j.Logger;
  * l'application et de l'exposer au {@code Controller}.
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class ApplicationModel extends WModelSaveable {
 

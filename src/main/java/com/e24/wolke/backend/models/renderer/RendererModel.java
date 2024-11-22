@@ -27,7 +27,7 @@ import org.apache.logging.log4j.Logger;
  * la simulation.
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author Nilon123456789
  */
 public class RendererModel extends WModelSaveable implements Runnable, WSceneMember<Properties> {

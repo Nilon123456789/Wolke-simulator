@@ -7,7 +7,7 @@ import com.e24.wolke.backend.models.simulation.SimulationConstants.UnitCircle;
  * La classe {@code WObstacleCell} represente la plus petite unité d'un obstacle.
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class WObstacleCell extends WCell {
 

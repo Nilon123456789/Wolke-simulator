@@ -18,7 +18,7 @@ import javax.swing.event.HyperlinkEvent;
 /**
  * La classe {@code AboutMenu} sert à afficher le menu "À propos" de l'application.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class AboutMenu extends JFrame {
 
@@ -120,7 +120,7 @@ public class AboutMenu extends JFrame {
             + " semester</h2><h2>Made by:</h2><ul><li><h3><a"
             + " href=\"https://github.com/Nilon123456789/\">Nilon123456789</a></h3></li><li><h3><a"
             + " href=\"https://github.com/MeriBouisri\">MeriBouisri</a></h3></li><li><h3><a"
-            + " href=\"https://github.com/n-o-o-d-l-e\">n-o-o-d-l-e </a></h3></li></ul><h2>Made"
+            + " href=\"https://github.com/adrienles\">adrienles </a></h3></li></ul><h2>Made"
             + " over the course of three months</h2>");
     this.scrollPaneCredits.setViewportView(this.textPaneInfo);
 

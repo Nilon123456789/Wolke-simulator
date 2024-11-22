@@ -13,7 +13,7 @@ import javax.swing.SwingUtilities;
 /**
  * Panneau de rendu du mode zen
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class ZenModeCanvasPane extends AbstractCanvasPane {
 

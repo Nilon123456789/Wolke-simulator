@@ -16,7 +16,7 @@ import net.miginfocom.swing.MigLayout;
 /**
  * Panneau d'outils de l'éditeur
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class EditorToolPane extends JPanel implements WEventComponent, Reinitializable {

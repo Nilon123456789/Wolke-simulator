@@ -15,7 +15,7 @@ import javax.swing.UIManager;
 /**
  * Classe EditorButtonComponent qui agence les boutons de l'éditeur
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 class EditorToggleButtonComponent extends JToggleButton
     implements Reinitializable, WEventComponent {

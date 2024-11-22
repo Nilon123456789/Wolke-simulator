@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  * La classe {@code WEditorIO} permet de gerer l'import et l'export de fichiers de l'editeur
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class WEditorIO {
 

@@ -22,7 +22,7 @@ import net.miginfocom.swing.MigLayout;
 /**
  * Panneau d'inspection d'une cellule de la simulation
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class SimulationInspectPane extends JPanel {
 

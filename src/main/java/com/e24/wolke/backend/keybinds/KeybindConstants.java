@@ -12,7 +12,7 @@ import java.awt.event.KeyEvent;
 /**
  * Classe contenant les constantes des raccourcis clavier, soit les combinaisons de touches.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public final class KeybindConstants {
 
@@ -233,7 +233,7 @@ public final class KeybindConstants {
   /**
    * La portée des raccourcis clavier, soit le contexte dans lequel ils sont actifs.
    *
-   * @author n-o-o-d-l-e
+   * @author adrienles
    */
   public enum KeybindScope {
     /** La portée globale, qui est active en tout temps */

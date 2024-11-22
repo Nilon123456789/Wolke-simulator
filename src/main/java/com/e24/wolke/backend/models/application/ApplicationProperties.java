@@ -17,7 +17,7 @@ import org.apache.logging.log4j.Logger;
  * ainsi qu'a la serialisation des donnees.
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class ApplicationProperties extends WProperties {
   /** SerialVersionUID de la classe */

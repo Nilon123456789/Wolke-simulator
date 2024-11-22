@@ -13,7 +13,7 @@ import java.util.ArrayList;
  * et de gerer le dessin sur une image
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class WToolbox {
 

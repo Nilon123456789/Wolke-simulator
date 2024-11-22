@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 /**
  * La classe {@code WToolShapeImage} permet de dessiner une image vectorielle.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class WToolImage extends WToolShape {
 

@@ -18,7 +18,7 @@ import javax.swing.UIManager;
 /**
  * Panneau du mode zen
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class ZenModePane extends JPanel {
 

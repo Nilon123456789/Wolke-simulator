@@ -15,7 +15,7 @@ import javax.swing.UIManager;
  * Classe composant d'un bouton réutilisable permettant d'ouvrir le menu instructions à une certaine
  * page d'aide, associée au composant sur lequel il se retrouve.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class HelpButtonComponent extends JButton implements WEventComponent, Reinitializable {
 

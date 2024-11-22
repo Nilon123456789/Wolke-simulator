@@ -32,7 +32,7 @@ import net.miginfocom.swing.MigLayout;
 /**
  * La classe {@code InstructionMenu} sert à afficher le menu "Instructions" de l'application.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class InstructionMenu extends JFrame implements WEventComponent, Reinitializable {
 
@@ -111,7 +111,7 @@ public class InstructionMenu extends JFrame implements WEventComponent, Reinitia
   /**
    * L'énumération pour la direction de changement de page
    *
-   * @author n-o-o-d-l-e
+   * @author adrienles
    */
   private enum PAGE_DIRECTION {
     /** La page suivante */
@@ -177,7 +177,7 @@ public class InstructionMenu extends JFrame implements WEventComponent, Reinitia
    * Constructeur de la classe {@code InstructionMenu} qui représente une section du mmenu
    * instructions
    *
-   * @author n-o-o-d-l-e
+   * @author adrienles
    */
   public class InstructionSection extends JPanel {
 
@@ -431,7 +431,7 @@ public class InstructionMenu extends JFrame implements WEventComponent, Reinitia
   /**
    * La classe interne pour les items du carrousel des pages d'instructions
    *
-   * @author n-o-o-d-l-e
+   * @author adrienles
    */
   private class CarouselItem {
     /** La description de la page */

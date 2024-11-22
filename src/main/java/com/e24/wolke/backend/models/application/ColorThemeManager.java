@@ -11,7 +11,7 @@ import com.formdev.flatlaf.intellijthemes.FlatAllIJThemes.FlatIJLookAndFeelInfo;
  * La classe {@code ColorThemeManager} permet de gerer le theme de l'application
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author Nilon123456789
  */
 public class ColorThemeManager {

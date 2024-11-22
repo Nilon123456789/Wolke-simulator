@@ -9,7 +9,7 @@ import net.miginfocom.swing.MigLayout;
 /**
  * Classe EditorButtonDropdownComponent qui agence les listes des boutons de l'éditeur
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class EditorButtonDropdownComponent extends JPanel {
 

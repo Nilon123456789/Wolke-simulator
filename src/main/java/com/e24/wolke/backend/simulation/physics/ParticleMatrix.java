@@ -11,7 +11,7 @@ import com.e24.wolke.utils.math.WMath;
  * <p>Cette classe est responsable de contenir les particules de la simulation
  *
  * @author Nilon123456789
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class ParticleMatrix {

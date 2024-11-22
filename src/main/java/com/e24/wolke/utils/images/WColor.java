@@ -6,7 +6,7 @@ import org.apache.logging.log4j.Level;
 /**
  * Classe regroupant les utilitaires de couleur.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author Nilon123456789
  * @author MeriBouisri
  */

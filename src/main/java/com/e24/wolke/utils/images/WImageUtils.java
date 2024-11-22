@@ -15,7 +15,7 @@ import java.net.URL;
  * La classe {@code WImageUtils} regroupe les methode utilitaires pour la manipulation d'images
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class WImageUtils {
 

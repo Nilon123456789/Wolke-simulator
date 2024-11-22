@@ -15,7 +15,7 @@ import java.awt.Color;
  * modifications apportées dans la librairie.
  *
  * @author Nilon123456789
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class EditorColorPicker {
 
