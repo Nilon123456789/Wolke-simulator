@@ -25,7 +25,7 @@ import net.miginfocom.swing.MigLayout;
 /**
  * Composant graphique qui affiche la légende de la simulation
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class SimulationLegendPane extends JPanel implements WEventComponent, Reinitializable {
   /** Sérialisation de la classe */

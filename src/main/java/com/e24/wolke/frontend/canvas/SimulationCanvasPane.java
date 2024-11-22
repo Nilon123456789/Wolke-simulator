@@ -13,7 +13,7 @@ import java.awt.image.BufferedImage;
 /**
  * Panneau de la visualisation de la simulation
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class SimulationCanvasPane extends AbstractCanvasPane {

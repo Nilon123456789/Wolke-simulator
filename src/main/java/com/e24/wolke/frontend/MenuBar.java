@@ -44,7 +44,7 @@ import org.apache.logging.log4j.core.util.FileUtils;
 /**
  * Barre de menu
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class MenuBar extends JMenuBar implements WEventComponent, Reinitializable {

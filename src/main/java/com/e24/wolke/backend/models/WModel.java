@@ -8,7 +8,7 @@ import com.e24.wolke.eventsystem.WEventMember;
  *
  * @see Controller
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public abstract class WModel extends WEventMember {
 

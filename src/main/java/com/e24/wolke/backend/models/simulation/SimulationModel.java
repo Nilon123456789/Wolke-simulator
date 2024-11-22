@@ -18,7 +18,7 @@ import java.util.Properties;
  *
  * @author MeriBouisri
  * @author Nilon123456789
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class SimulationModel extends WModelSaveable implements WSceneMember<Properties> {
 

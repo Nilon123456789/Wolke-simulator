@@ -7,7 +7,7 @@ package com.e24.wolke.utils.math;
  *
  * @author Nilon123456789
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class WVector2D {
 

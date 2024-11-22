@@ -45,7 +45,7 @@ import org.apache.logging.log4j.Level;
  *
  * <p>Panel pour afficher les logs de l'application
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author Nilon123456789
  */
 public class ConsoleFrame extends JFrame implements Runnable {

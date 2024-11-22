@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
 /**
  * Bouton de choix de couleur de l'éditeur avec pastille de la couleur actuelle.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 class EditorColorPickerButtonComponent extends EditorButtonComponent {
 

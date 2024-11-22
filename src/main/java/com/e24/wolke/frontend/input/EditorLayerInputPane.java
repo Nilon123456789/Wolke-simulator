@@ -36,7 +36,7 @@ import net.miginfocom.swing.MigLayout;
 /**
  * Panneau utilisé pour gérer les calques de l'éditeur
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class EditorLayerInputPane extends AbstractInputPane
@@ -360,7 +360,7 @@ public class EditorLayerInputPane extends AbstractInputPane
    * Panneau représentant un calque de l'éditeur et affichant un aperçu de son image ainsi que son
    * nom
    *
-   * @author n-o-o-d-l-e
+   * @author adrienles
    */
   public class EditorLayerComponent extends JPanel {
     /** Numéro de sérialisation de la classe */
@@ -484,7 +484,7 @@ public class EditorLayerInputPane extends AbstractInputPane
   /**
    * Sous-classe représentant un bouton réutilisable du panneau de calques
    *
-   * @author n-o-o-d-l-e
+   * @author adrienles
    */
   private class EditorLayerButtonComponent extends JButton {
     /** Numéro de sérialisation de la classe */

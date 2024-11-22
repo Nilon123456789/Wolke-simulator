@@ -8,7 +8,7 @@ import java.awt.KeyboardFocusManager;
 /**
  * Modèle de gestion des raccourcis clavier
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class KeybindModel extends WModel {
 

@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 /**
  * Composant swing pour afficher une image qui s'adapte à la taille du panneau et qui reste centrée.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class ImageComponent extends JPanel {
 

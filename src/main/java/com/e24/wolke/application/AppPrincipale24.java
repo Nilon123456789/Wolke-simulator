@@ -19,7 +19,7 @@ import javax.swing.UnsupportedLookAndFeelException;
  * Classe d'exécution du simulateur Wolke
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author Nilon123456789
  */
 public class AppPrincipale24 {

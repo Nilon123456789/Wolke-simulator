@@ -14,7 +14,7 @@ import java.awt.event.KeyEvent;
  * La classe {@code KeybindItem} regroupe le {@code KeybindScope} et le {@code Subject} qui doivent
  * être liés à un raccourci clavier. Un nom localisé est également associé à l'élément.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class KeybindItem {
 

@@ -27,7 +27,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 /**
  * Classe du cadre de la fenêtre principale de l'application
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class MainFrame extends JFrame implements WEventComponent {

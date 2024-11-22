@@ -14,7 +14,7 @@ import java.nio.FloatBuffer;
 /**
  * Canvas OpenGL pour l'affichage de la simulation.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class OpenGLCanvas extends GLCanvas implements GLEventListener {
   /** Numéro de sérialisation de la classe */

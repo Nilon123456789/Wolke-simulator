@@ -20,7 +20,7 @@ import org.apache.logging.log4j.Logger;
  * La classe {@code Controller} permet de lier l'interface graphique aux modeles de l'application.
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class Controller extends WEventMember {
 

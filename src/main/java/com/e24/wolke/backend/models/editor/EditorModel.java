@@ -21,7 +21,7 @@ import org.apache.logging.log4j.Logger;
  * et de l'exposer au {@code Controller}.
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class EditorModel extends WModel implements WSceneMember<BufferedImage> {
 

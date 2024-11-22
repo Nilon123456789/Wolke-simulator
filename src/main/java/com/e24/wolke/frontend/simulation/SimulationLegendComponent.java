@@ -17,7 +17,7 @@ import javax.swing.JPanel;
 /**
  * Composant du gradient de la légende de la simulation
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class SimulationLegendComponent extends JPanel implements WEventComponent, Reinitializable {
   /** Sérialisation de la classe */

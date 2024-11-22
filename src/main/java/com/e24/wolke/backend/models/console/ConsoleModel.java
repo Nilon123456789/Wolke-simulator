@@ -16,7 +16,7 @@ import org.apache.logging.log4j.Logger;
  * La classe {@code ConsoleModel} sert a gerer la logique de la console ainsi que ses fonctions de
  * filtration et de l'exposer au {@code Controller}.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author Nilon123456789
  * @author MeriBouisri
  */

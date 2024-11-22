@@ -8,7 +8,7 @@ import org.apache.logging.log4j.Level;
  * La classe {@code ConsoleConstants} regroupe les constantes liees au fonctionnement de la console
  * et des filtrages de logs.
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author Nilon123456789
  */
 public class ConsoleConstants {
@@ -34,7 +34,7 @@ public class ConsoleConstants {
   /**
    * Enum regroupant les differents niveaux de filtrage des logs.
    *
-   * @author n-o-o-d-l-e
+   * @author adrienles
    * @author Nilon123456789
    */
   public enum WLogLevel {

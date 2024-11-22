@@ -11,7 +11,7 @@ import javax.swing.UIManager;
 /**
  * Composant de bouton pour choisir l'épaisseur de ligne dans l'éditeur
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class EditorLineThicknessButtonComponent extends EditorButtonComponent
     implements Reinitializable, WEventComponent {

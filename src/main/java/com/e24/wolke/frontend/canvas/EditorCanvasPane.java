@@ -20,7 +20,7 @@ import javax.swing.JFrame;
 /**
  * Panneau de l'éditeur de simulation
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author MeriBouisri
  */
 public class EditorCanvasPane extends AbstractCanvasPane {

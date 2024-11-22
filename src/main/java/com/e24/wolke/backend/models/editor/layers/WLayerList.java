@@ -12,7 +12,7 @@ import java.util.List;
  * La classe {@code WLayerList} permet de gerer une liste de {@code WLayer}
  *
  * @author MeriBouisri
- * @author n-o-o-d-l-e
+ * @author adrienles
  */
 public class WLayerList {
 

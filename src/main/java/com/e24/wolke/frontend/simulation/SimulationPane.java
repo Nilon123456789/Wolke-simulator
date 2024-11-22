@@ -39,7 +39,7 @@ import javax.swing.UIManager;
 /**
  * Panneau de simulation
  *
- * @author n-o-o-d-l-e
+ * @author adrienles
  * @author Nilon123456789
  */
 public class SimulationPane extends JPanel implements Reinitializable, WEventComponent {
